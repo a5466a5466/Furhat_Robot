@@ -1,0 +1,148 @@
+{
+  "class": "furhatos.gestures.Gesture",
+  "name": "surprise",
+  "frames": [
+    {
+      "time": [0.0],
+      "params": {
+        "BROW_INNER_UP": 0.3,
+        "BROW_UP_LEFT": 0.3,
+        "BROW_UP_RIGHT": 0.3,
+        "EYE_BLINK_LEFT": 0.0,
+        "EYE_BLINK_RIGHT": 0.0,
+        "EYE_WIDE_LEFT": 0.3,
+        "EYE_WIDE_RIGHT": 0.3,
+        "MOUTH_OPEN": 0.5,
+        "MOUTH_STRETCH_LEFT": 0.5,
+        "MOUTH_STRETCH_RIGHT": 0.5
+      }
+    },
+    {
+      "time": [0.25],
+      "params": {
+        "BROW_INNER_UP": 0.5,
+        "BROW_UP_LEFT": 0.5,
+        "BROW_UP_RIGHT": 0.5,
+        "EYE_BLINK_LEFT": 0.0,
+        "EYE_BLINK_RIGHT": 0.0,
+        "EYE_WIDE_LEFT": 0.6,
+        "EYE_WIDE_RIGHT": 0.6,
+        "MOUTH_OPEN": 0.7,
+        "MOUTH_STRETCH_LEFT": 0.7,
+        "MOUTH_STRETCH_RIGHT": 0.7
+      }
+    },
+    {
+      "time": [0.5],
+      "params": {
+        "BROW_INNER_UP": 0.7,
+        "BROW_UP_LEFT": 0.7,
+        "BROW_UP_RIGHT": 0.7,
+        "EYE_BLINK_LEFT": 0.1,
+        "EYE_BLINK_RIGHT": 0.1,
+        "EYE_WIDE_LEFT": 0.8,
+        "EYE_WIDE_RIGHT": 0.8,
+        "MOUTH_OPEN": 0.9,
+        "MOUTH_STRETCH_LEFT": 0.9,
+        "MOUTH_STRETCH_RIGHT": 0.9
+      }
+    },
+    {
+      "time": [1.0],
+      "params": {
+        "BROW_INNER_UP": 0.8,
+        "BROW_UP_LEFT": 0.8,
+        "BROW_UP_RIGHT": 0.8,
+        "EYE_BLINK_LEFT": 0.2,
+        "EYE_BLINK_RIGHT": 0.2,
+        "EYE_WIDE_LEFT": 0.9,
+        "EYE_WIDE_RIGHT": 0.9,
+        "MOUTH_OPEN": 1.0,
+        "MOUTH_STRETCH_LEFT": 1.0,
+        "MOUTH_STRETCH_RIGHT": 1.0
+      }
+    },
+    {
+      "time": [1.5],
+      "params": {
+        "BROW_INNER_UP": 0.8,
+        "BROW_UP_LEFT": 0.8,
+        "BROW_UP_RIGHT": 0.8,
+        "EYE_BLINK_LEFT": 0.1,
+        "EYE_BLINK_RIGHT": 0.1,
+        "EYE_WIDE_LEFT": 0.8,
+        "EYE_WIDE_RIGHT": 0.8,
+        "MOUTH_OPEN": 1.0,
+        "MOUTH_STRETCH_LEFT": 1.0,
+        "MOUTH_STRETCH_RIGHT": 1.0
+      }
+    },
+    {
+      "time": [2.0],
+      "params": {
+        "BROW_INNER_UP": 1.0,
+        "BROW_UP_LEFT": 1.0,
+        "BROW_UP_RIGHT": 1.0,
+        "EYE_BLINK_LEFT": 0.2,
+        "EYE_BLINK_RIGHT": 0.2,
+        "EYE_WIDE_LEFT": 1.0,
+        "EYE_WIDE_RIGHT": 1.0,
+        "MOUTH_OPEN": 1.2,
+        "MOUTH_STRETCH_LEFT": 1.2,
+        "MOUTH_STRETCH_RIGHT": 1.2
+      }
+    },
+    {
+      "time": [3.0],
+      "params": {
+        "BROW_INNER_UP": 1.0,
+        "BROW_UP_LEFT": 1.0,
+        "BROW_UP_RIGHT": 1.0,
+        "EYE_BLINK_LEFT": 0.2,
+        "EYE_BLINK_RIGHT": 0.2,
+        "EYE_WIDE_LEFT": 1.0,
+        "EYE_WIDE_RIGHT": 1.0,
+        "MOUTH_OPEN": 1.2,
+        "MOUTH_STRETCH_LEFT": 1.2,
+        "MOUTH_STRETCH_RIGHT": 1.2
+      }
+    },
+    {
+      "time": [4.0],
+      "params": {
+        "BROW_INNER_UP": 1.0,
+        "BROW_UP_LEFT": 1.0,
+        "BROW_UP_RIGHT": 1.0,
+        "EYE_BLINK_LEFT": 0.2,
+        "EYE_BLINK_RIGHT": 0.2,
+        "EYE_WIDE_LEFT": 1.0,
+        "EYE_WIDE_RIGHT": 1.0,
+        "MOUTH_OPEN": 1.2,
+        "MOUTH_STRETCH_LEFT": 1.2,
+        "MOUTH_STRETCH_RIGHT": 1.2
+      }
+    },
+    {
+      "time": [5.0],
+      "params": {
+        "BROW_INNER_UP": 1.0,
+        "BROW_UP_LEFT": 1.0,
+        "BROW_UP_RIGHT": 1.0,
+        "EYE_BLINK_LEFT": 0.2,
+        "EYE_BLINK_RIGHT": 0.2,
+        "EYE_WIDE_LEFT": 1.0,
+        "EYE_WIDE_RIGHT": 1.0,
+        "MOUTH_OPEN": 1.2,
+        "MOUTH_STRETCH_LEFT": 1.2,
+        "MOUTH_STRETCH_RIGHT": 1.2
+      }
+    },
+    {
+      "time": [10.0],
+      "params": {
+        "reset": true
+      }
+    }
+  ]
+}
+

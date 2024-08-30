@@ -1,0 +1,12 @@
+{
+  "class": "furhatos.gestures.Gesture",
+  "name": "neutral",
+  "frames": [
+    {
+      "time": [0.0],
+      "params": {
+        "reset": true
+      }
+    }
+  ]
+}

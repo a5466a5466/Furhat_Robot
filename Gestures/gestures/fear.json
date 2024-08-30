@@ -1,0 +1,100 @@
+{
+  "class": "furhatos.gestures.Gesture",
+  "name": "fear",
+  "frames": [
+    {
+      "time": [0.0],
+      "params": {
+        "BROW_INNER_UP": 0.3,
+        "BROW_UP_LEFT": 0.3,
+        "BROW_UP_RIGHT": 0.3,
+        "EYE_WIDE_LEFT": 0.3,
+        "EYE_WIDE_RIGHT": 0.3,
+        "MOUTH_OPEN": 0.1
+      }
+    },
+    {
+      "time": [1.0],
+      "params": {
+        "BROW_INNER_UP": 0.5,
+        "BROW_UP_LEFT": 0.5,
+        "BROW_UP_RIGHT": 0.5,
+        "EYE_WIDE_LEFT": 0.5,
+        "EYE_WIDE_RIGHT": 0.5,
+        "MOUTH_OPEN": 0.2
+      }
+    },
+    {
+      "time": [3.0],
+      "params": {
+        "BROW_INNER_UP": 0.7,
+        "BROW_UP_LEFT": 0.7,
+        "BROW_UP_RIGHT": 0.7,
+        "EYE_WIDE_LEFT": 0.7,
+        "EYE_WIDE_RIGHT": 0.7,
+        "MOUTH_OPEN": 0.4
+      }
+    },
+    {
+      "time": [5.0],
+      "params": {
+        "BROW_INNER_UP": 0.9,
+        "BROW_UP_LEFT": 0.9,
+        "BROW_UP_RIGHT": 0.9,
+        "EYE_WIDE_LEFT": 0.9,
+        "EYE_WIDE_RIGHT": 0.9,
+        "MOUTH_OPEN": 0.6
+      }
+    },
+    {
+      "time": [6.0],
+      "params": {
+        "BROW_INNER_UP": 1.1,
+        "BROW_UP_LEFT": 1.1,
+        "BROW_UP_RIGHT": 1.1,
+        "EYE_WIDE_LEFT": 1.1,
+        "EYE_WIDE_RIGHT": 1.1,
+        "MOUTH_OPEN": 0.8
+      }
+    },
+    {
+      "time": [7.0],
+      "params": {
+        "BROW_INNER_UP": 1.1,
+        "BROW_UP_LEFT": 1.1,
+        "BROW_UP_RIGHT": 1.1,
+        "EYE_WIDE_LEFT": 1.1,
+        "EYE_WIDE_RIGHT": 1.1,
+        "MOUTH_OPEN": 0.8
+      }
+    },
+    {
+      "time": [8.0],
+      "params": {
+        "BROW_INNER_UP": 0.9,
+        "BROW_UP_LEFT": 0.9,
+        "BROW_UP_RIGHT": 0.9,
+        "EYE_WIDE_LEFT": 0.9,
+        "EYE_WIDE_RIGHT": 0.9,
+        "MOUTH_OPEN": 0.6
+      }
+    },
+    {
+      "time": [9.0],
+      "params": {
+        "BROW_INNER_UP": 0.7,
+        "BROW_UP_LEFT": 0.7,
+        "BROW_UP_RIGHT": 0.7,
+        "EYE_WIDE_LEFT": 0.7,
+        "EYE_WIDE_RIGHT": 0.7,
+        "MOUTH_OPEN": 0.4
+      }
+    },
+    {
+      "time": [10.0],
+      "params": {
+        "reset": true
+      }
+    }
+  ]
+}
